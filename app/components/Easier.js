@@ -21,7 +21,7 @@ export class Easier extends Component{
                 <Paraone>
                     It's Easier than You Think
                 </Paraone>
-                </div>
+                </div><br/><br/>
                 <div class="row">
                 <div class="col  m3  offset-m1 center"><img class="responsive-img" style={{height:250}} src={Device}/>
                 <br/><Paraone style={{fontSize:20}}><p>Tell us About your Device</p></Paraone>
